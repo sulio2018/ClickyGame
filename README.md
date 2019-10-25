@@ -1,6 +1,6 @@
 # Clicky Game
 
-Test your NFL team logo knowledge with this app.
+Test your NFL team logo knowledge with this app: https://sulio2018.github.io/ClickyGame/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
